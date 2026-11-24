@@ -1,0 +1,13 @@
+target/
+.run/
+dist/
+docs/
+.v3/
+/certs/*.pem
+/templates/*.txt
+!/templates/users.example.txt
+/loadgen.toml
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
